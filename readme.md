@@ -1,4 +1,10 @@
-Code snippets for Advent of code
+##Code snippets for Advent of code
 ---
-To run, enter a folder and run with node
-`node part_x.js`
+####Day 1-5:
+```
+Javascript (NodeJS)
+```
+####Day 6-10:
+```
+C# (NET 6)
+```
